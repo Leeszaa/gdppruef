@@ -1,0 +1,8 @@
+Test Autor
+Test Titel
+Test Verlag
+1234-5678
+1
+10.10.1990
+12.99
+0
